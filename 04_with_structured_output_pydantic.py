@@ -31,7 +31,7 @@ Insanely powerful processor (great for gaming and productivity)
 Stunning 200MP camera with incredible zoom capabilities
 Long battery life with fast charging
 S-Pen support is unique and useful                           
-Review by Waqar Ali
+Review by Waqar 
 """)
 
 print(result)
